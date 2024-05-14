@@ -10,7 +10,7 @@ Los Pollos Hermanos es un grupo de estudiantes de la Universidad UTN comprometid
 ## Integrantes
 | Nombre            | Rol                | Avatar                                  |
 |-------------------|--------------------|-----------------------------------------|
-| Luca Zamperoni    | Product Owner      | <img src="https://avatars.githubusercontent.com/u/99847899?v=4" width="100px" height="100px">  |
+| Luca Zamperoni    | Product Owner      | <img src="https://avatars.githubusercontent.com/u/99847899?v=4" width="100px">  |
 | Valentin Tamola   | Developer          | <img src="https://avatars.githubusercontent.com/u/115435107?v=4" width="100px">  |
 | Lucas Nievas      | Developer          | <img src="https://avatars.githubusercontent.com/u/129899220?v=4" width="100px">  |
 | Franco Santibañez | Developer          | <img src="https://avatars.githubusercontent.com/u/129998263?s=70&v=4" width="100px">  |
