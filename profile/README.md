@@ -23,7 +23,7 @@ El objetivo principal de nuestro grupo es trabajar juntos de manera eficiente pa
 ## Proyectos
 En este repositorio encontrarás los siguientes proyectos en los que estamos trabajando actualmente:
 
-- [Frontend Client](https://github.com/Los-Pollos-Hermanos-UTN/Buen-Sabor-Frontend-Client)
+- [Frontend Client](https://github.com/Los-Pollos-Hermanos-UTN/Buen-Sabor-Frontend-Client-TS)
 - [Frontend Admin](https://github.com/Los-Pollos-Hermanos-UTN/Buen-Sabor-Frontend-Admin)
 - [Backend](https://github.com/Los-Pollos-Hermanos-UTN/BuenSaborFix)
 
